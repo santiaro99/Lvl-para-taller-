@@ -23,6 +23,9 @@
       <sprite>sprites\spr_idle</sprite>
     </sprites>
     <sprite>sprites\Enemigo_R</sprite>
+    <sprite>sprites\spr_Pjump</sprite>
+    <sprite>sprites\sprite14</sprite>
+    <sprite>sprites\spr_Armor</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -47,6 +50,9 @@
       <object>objects\objEnemigoR</object>
       <object>objects\objEnemigoPadre</object>
     </objects>
+    <object>objects\obj_Pjump</object>
+    <object>objects\object13</object>
+    <object>objects\object14</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\Nivel_3</room>
