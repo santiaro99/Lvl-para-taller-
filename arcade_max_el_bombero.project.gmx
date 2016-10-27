@@ -16,16 +16,23 @@
       <sprite>sprites\sprMuro1</sprite>
       <sprite>sprites\sprPiso3</sprite>
     </sprites>
-    <sprites name="Personaje">
+    <sprites name="Personajes">
       <sprite>sprites\spr_run</sprite>
       <sprite>sprites\spr_fall</sprite>
       <sprite>sprites\spr_jump</sprite>
       <sprite>sprites\spr_idle</sprite>
+      <sprite>sprites\spr_Viejito</sprite>
+      <sprite>sprites\spr_ViejitoN</sprite>
     </sprites>
-    <sprite>sprites\Enemigo_R</sprite>
-    <sprite>sprites\spr_Pjump</sprite>
-    <sprite>sprites\sprite14</sprite>
-    <sprite>sprites\spr_Armor</sprite>
+    <sprites name="Power Ups ">
+      <sprite>sprites\sprite14</sprite>
+      <sprite>sprites\spr_Pjump</sprite>
+      <sprite>sprites\spr_Armor</sprite>
+    </sprites>
+    <sprites name="Enemigos">
+      <sprite>sprites\Enemigo_R</sprite>
+    </sprites>
+    <sprite>sprites\spri_Tuberia</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -53,6 +60,8 @@
     <object>objects\obj_Pjump</object>
     <object>objects\object13</object>
     <object>objects\object14</object>
+    <object>objects\object15</object>
+    <object>objects\object16</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\Nivel_3</room>
