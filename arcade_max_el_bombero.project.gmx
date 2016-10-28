@@ -33,6 +33,8 @@
       <sprite>sprites\Enemigo_R</sprite>
     </sprites>
     <sprite>sprites\spri_Tuberia</sprite>
+    <sprite>sprites\sprite19</sprite>
+    <sprite>sprites\sprite20</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
