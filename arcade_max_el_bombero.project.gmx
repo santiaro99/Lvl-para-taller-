@@ -21,10 +21,14 @@
       <sprite>sprites\spr_fall</sprite>
       <sprite>sprites\spr_jump</sprite>
       <sprite>sprites\spr_idle</sprite>
+      <sprite>sprites\spr_Espalda</sprite>
       <sprite>sprites\spr_Viejito</sprite>
       <sprite>sprites\spr_ViejitoN</sprite>
       <sprite>sprites\spr_HumoQ</sprite>
       <sprite>sprites\spr_HumoP</sprite>
+      <sprite>sprites\spr_Boss1</sprite>
+      <sprite>sprites\spr_Boss2</sprite>
+      <sprite>sprites\spr_Boss3</sprite>
     </sprites>
     <sprites name="Power Ups ">
       <sprite>sprites\sprite14</sprite>
@@ -37,9 +41,6 @@
     <sprite>sprites\spri_Tuberia</sprite>
     <sprite>sprites\sprite19</sprite>
     <sprite>sprites\sprite20</sprite>
-    <sprite>sprites\sprite24</sprite>
-    <sprite>sprites\sprite25</sprite>
-    <sprite>sprites\sprite26</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background_Inicio</background>

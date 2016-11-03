@@ -20,20 +20,20 @@
   <width>96</width>
   <height>96</height>
   <frames>
-    <frame index="0">images\sprite26_0.png</frame>
-    <frame index="1">images\sprite26_1.png</frame>
-    <frame index="2">images\sprite26_2.png</frame>
-    <frame index="3">images\sprite26_3.png</frame>
-    <frame index="4">images\sprite26_4.png</frame>
-    <frame index="5">images\sprite26_5.png</frame>
-    <frame index="6">images\sprite26_6.png</frame>
-    <frame index="7">images\sprite26_7.png</frame>
-    <frame index="8">images\sprite26_8.png</frame>
-    <frame index="9">images\sprite26_9.png</frame>
-    <frame index="10">images\sprite26_10.png</frame>
-    <frame index="11">images\sprite26_11.png</frame>
-    <frame index="12">images\sprite26_12.png</frame>
-    <frame index="13">images\sprite26_13.png</frame>
-    <frame index="14">images\sprite26_14.png</frame>
+    <frame index="0">images\spr_Boss3_0.png</frame>
+    <frame index="1">images\spr_Boss3_1.png</frame>
+    <frame index="2">images\spr_Boss3_2.png</frame>
+    <frame index="3">images\spr_Boss3_3.png</frame>
+    <frame index="4">images\spr_Boss3_4.png</frame>
+    <frame index="5">images\spr_Boss3_5.png</frame>
+    <frame index="6">images\spr_Boss3_6.png</frame>
+    <frame index="7">images\spr_Boss3_7.png</frame>
+    <frame index="8">images\spr_Boss3_8.png</frame>
+    <frame index="9">images\spr_Boss3_9.png</frame>
+    <frame index="10">images\spr_Boss3_10.png</frame>
+    <frame index="11">images\spr_Boss3_11.png</frame>
+    <frame index="12">images\spr_Boss3_12.png</frame>
+    <frame index="13">images\spr_Boss3_13.png</frame>
+    <frame index="14">images\spr_Boss3_14.png</frame>
   </frames>
 </sprite>
