@@ -44,6 +44,7 @@
   </sprites>
   <backgrounds name="background">
     <background>background\background_Inicio</background>
+    <background>background\background1</background>
   </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
